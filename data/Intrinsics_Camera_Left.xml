@@ -1,0 +1,13 @@
+<?xml version="1.0"?>  
+<opencv_storage>  
+<Intrinsics_Camera_Left type_id="opencv-matrix">  
+  <rows>3</rows>  
+  <cols>3</cols>  
+  <dt>d</dt>  
+  <data>  
+   884.04367    0.          539.33465 
+  0.            862.50563   176.62010 
+  0.          0.         1.  
+</data>  
+</Intrinsics_Camera_Left>  
+</opencv_storage>  
